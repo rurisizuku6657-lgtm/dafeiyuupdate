@@ -1,19 +1,21 @@
 {
   "version": "0.3",
-  "published_at": "2026-11-16 23:21",
+  "published_at": "2026-11-16 23:45",
   "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
   "package_urls": [
     "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
     "https://gh-proxy.com/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
+    "https://ghfast.top/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
+    "https://cdn.statically.io/gh/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
     "https://gitee.com/dafeiyustandby/update/raw/master/dafuyu_0.3.zip"
   ],
-  "sha256": "BE013121F9235DFE8E9C8F34094CF0ED282B9F21F65568A8E86DF6A71C0586F1",
-  "size": 8520786,
+  "sha256": "D47C87457EEA1E4F83DC56062EE18A6DEA10D6683F3A82145C987FB62B0F6B4D",
+  "size": 8521734,
   "notes": [
+    "更新源自动测速（GitHub/gh-proxy/ghfast/statically 依次兜底），国内也能秒下",
+    "清单也支持多源回退",
     "侧栏：已最新显示版本号（不可点），有新版本显示⬆️更新到x.x",
     "更新完自动重启面板",
-    "启动静默检查+每2小时复查",
-    "清单/更新包都支持多源自动回退",
     "出价金额校验改模板优先，省约1.4秒",
     "闪退秒级自救"
   ]
