@@ -1,0 +1,14 @@
+{
+  "version": "0.3",
+  "published_at": "2026-11-16 23:00",
+  "package_url": "https://gitee.com/dafeiyustandby/update/raw/master/dafuyu_0.3.zip",
+  "sha256": "90F52658504FFB46BBD4D9AD3DD7B5A61A7AEE55603F1FAF0C63F478F46E9989",
+  "size": 8519606,
+  "notes": [
+    "侧栏：已最新显示版本号（不可点）；有新版本显示⬆️更新到x.x",
+    "更新完自动重启面板",
+    "启动静默检查，之后每2小时复查",
+    "出价金额校验改模板优先，省约1.4秒",
+    "闪退秒级自救"
+  ]
+}
