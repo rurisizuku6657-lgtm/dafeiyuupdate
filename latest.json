@@ -1,22 +1,20 @@
 {
-  "version": "0.3",
-  "published_at": "2026-11-16 23:45",
-  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
+  "version": "0.54",
+  "published_at": "2026-11-25 01:29",
+  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.54.zip",
   "package_urls": [
-    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
-    "https://ghfast.top/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
-    "https://cdn.statically.io/gh/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.3.zip",
-    "https://gitee.com/dafeiyustandby/update/raw/master/dafuyu_0.3.zip"
+    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.54.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.54.zip",
+    "https://ghfast.top/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.54.zip"
   ],
-  "sha256": "D47C87457EEA1E4F83DC56062EE18A6DEA10D6683F3A82145C987FB62B0F6B4D",
-  "size": 8521734,
+  "sha256": "A8B606F70E15F337BAD360210E78EBE7FEE091F1D33B43B83BBD6D86735D2B41",
+  "size": 19956101,
   "notes": [
-    "更新源自动测速（GitHub/gh-proxy/ghfast/statically 依次兜底），国内也能秒下",
-    "清单也支持多源回退",
-    "侧栏：已最新显示版本号（不可点），有新版本显示⬆️更新到x.x",
-    "更新完自动重启面板",
-    "出价金额校验改模板优先，省约1.4秒",
-    "闪退秒级自救"
+    "统计范围新增全部统计",
+    "F10/F11/F12全局热键改到面板进程，任意页面都能触发",
+    "清理仓库拖到底立即停滚",
+    "清理仓库有名字的藏品都会卖（含没勾保留的特殊藏品）",
+    "删除守望者/永恒之心/乐园巧克力三档出价改为保留藏品",
+    "普通倍率新增两段；保留藏品横排并新增烟云盏/古旧手提箱"
   ]
 }
