@@ -1,18 +1,21 @@
 {
   "version": "0.57",
   "published_at": "2026-11-26 00:23",
-  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57.zip",
+  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57_exefix.zip",
   "package_urls": [
-    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57.zip",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57.zip",
-    "https://ghfast.top/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57.zip"
+    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57_exefix.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57_exefix.zip",
+    "https://ghfast.top/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57_exefix.zip"
   ],
-  "sha256": "99A4D0ECB7659128656BF78091E2913AD69A21A522830F332E5474EDF57774FD",
-  "size": 19751793,
+  "sha256": "7669846877A62509585BB40835A07986C6F88504EF40694AFE45529B8695CF12",
+  "size": 19801438,
   "notes": [
     "恢复原来的面板外观、快捷区和参数布局。",
     "调整高价值藏品设置标题，移除大仓总门槛输入和保留藏品的括号说明。",
     "首次打开更新弹窗时，按升级前版本列出这次跨过的各版说明。",
     "参数区卡片底色随界面透明度变化，高价值藏品分组标题统一为原有样式。"
-  ]
+  ],
+  "exe_url": "https://github.com/rurisizuku6657-lgtm/dafeiyuupdate/releases/download/v0.57/dafuyu_0.57.exe",
+  "exe_sha256": "413A08CE334F9FB3087F87A971A55671E85C5C3654FF8F066C9C036A7D95E037",
+  "exe_size": 431325676
 }
