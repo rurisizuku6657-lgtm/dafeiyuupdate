@@ -1,21 +1,20 @@
 {
-  "version": "0.57",
-  "published_at": "2026-11-26 00:23",
-  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57_exefix.zip",
+  "version": "0.58",
+  "published_at": "2026-11-26 20:53",
+  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.58.zip",
   "package_urls": [
-    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57_exefix.zip",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57_exefix.zip",
-    "https://ghfast.top/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.57_exefix.zip"
+    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.58.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.58.zip",
+    "https://ghfast.top/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.58.zip"
   ],
-  "sha256": "7669846877A62509585BB40835A07986C6F88504EF40694AFE45529B8695CF12",
-  "size": 19801438,
+  "sha256": "B58ED37157EBFB43486EB2651208562F88D545DA4DBD834FF6BBC21A7706640A",
+  "size": 19757539,
   "notes": [
-    "恢复原来的面板外观、快捷区和参数布局。",
-    "调整高价值藏品设置标题，移除大仓总门槛输入和保留藏品的括号说明。",
-    "首次打开更新弹窗时，按升级前版本列出这次跨过的各版说明。",
-    "参数区卡片底色随界面透明度变化，高价值藏品分组标题统一为原有样式。"
+    "修复鼠标让行误暂停：明显移动或点击其他窗口时暂缓输入，停手后重新识别并继续。",
+    "恢复出价前重新核对回合和金额，确认状态不明时避免重复提交。",
+    "清仓先扫完整仓，复用未变化页面并合并跨页重复；出售前复核物品和价格，确认全部售出后再一键整理。"
   ],
-  "exe_url": "https://github.com/rurisizuku6657-lgtm/dafeiyuupdate/releases/download/v0.57/dafuyu_0.57.exe",
-  "exe_sha256": "413A08CE334F9FB3087F87A971A55671E85C5C3654FF8F066C9C036A7D95E037",
-  "exe_size": 431325676
+  "exe_url": "https://github.com/rurisizuku6657-lgtm/dafeiyuupdate/releases/download/v0.58/dafuyu_0.58.exe",
+  "exe_sha256": "A731BE19D848AAD469AFCAED5071EC58E6AD58934CE4A25571B080BAFC2E142B",
+  "exe_size": 431331182
 }
