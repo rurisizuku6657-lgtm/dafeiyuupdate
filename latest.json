@@ -1,20 +1,18 @@
 {
-  "version": "0.58",
-  "published_at": "2026-11-26 20:53",
-  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.58.zip",
+  "version": "0.59",
+  "published_at": "2026-11-27 01:03",
+  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.5.9.zip",
   "package_urls": [
-    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.58.zip",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.58.zip",
-    "https://ghfast.top/https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.58.zip"
+    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.5.9.zip",
+    "https://gitee.com/dafeuyustandby/update/releases/download/v0.5.9/dafuyu_0.5.9.zip"
   ],
-  "sha256": "B58ED37157EBFB43486EB2651208562F88D545DA4DBD834FF6BBC21A7706640A",
-  "size": 19757539,
+  "sha256": "F07BC3ED35465682AE915415EEB5489F7EAB9AF39896FEF9F832B2CDE8010E45",
+  "size": 26127204,
   "notes": [
-    "修复鼠标让行误暂停：明显移动或点击其他窗口时暂缓输入，停手后重新识别并继续。",
-    "恢复出价前重新核对回合和金额，确认状态不明时避免重复提交。",
-    "清仓先扫完整仓，复用未变化页面并合并跨页重复；出售前复核物品和价格，确认全部售出后再一键整理。"
+    "在线更新校验后自动重启，启动失败时尝试恢复旧版。",
+    "更新优先按实测速率选择小型更新包。",
+    "固定启动文件名为大肥鱼standby.exe，保留旧启动文件和用户参数。",
+    "修复带千位分隔符的出价确认，以及清仓翻页和鼠标让行开关。"
   ],
-  "exe_url": "https://github.com/rurisizuku6657-lgtm/dafeiyuupdate/releases/download/v0.58/dafuyu_0.58.exe",
-  "exe_sha256": "A731BE19D848AAD469AFCAED5071EC58E6AD58934CE4A25571B080BAFC2E142B",
-  "exe_size": 431331182
+  "display_version": "0.5.9"
 }
