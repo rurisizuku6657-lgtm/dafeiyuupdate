@@ -1,20 +1,21 @@
 {
-  "version": "0.59",
-  "published_at": "2026-11-27 01:24",
-  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.5.9_hotfix.zip",
+  "version": "0.60",
+  "published_at": "2026-11-27 12:48",
+  "package_url": "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.6.0.zip",
   "package_urls": [
-    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.5.9_hotfix.zip",
-    "https://gitee.com/dafeuyustandby/update/releases/download/v0.5.9/dafuyu_0.5.9_hotfix.zip"
+    "https://raw.githubusercontent.com/rurisizuku6657-lgtm/dafeiyuupdate/main/dafuyu_0.6.0.zip",
+    "https://gitee.com/dafeuyustandby/update/releases/download/v0.6.0/dafuyu_0.6.0.zip"
   ],
-  "sha256": "A4BE1D764F9436A8BED58F191A2383D35E8D792B0FF585E31FA232C9A5EC6ADA",
-  "size": 26126719,
+  "sha256": "F9A6B8497B6F50A48E4431A5E9552B8E6DAB9D4FE2DA722F0455BB570D8D28A6",
+  "size": 19766610,
   "notes": [
-    "修复在 GBK 环境下启动面板时的编码错误。",
-    "在线更新校验后自动重启，启动失败时尝试恢复旧版。",
-    "更新优先按实测速率选择小型更新包。",
-    "固定启动文件名为大肥鱼standby.exe，保留旧启动文件和用户参数。",
-    "修复带千位分隔符的出价确认，以及清仓翻页和鼠标让行开关。"
+    "清仓增加贴边补拍，确认完整格子后再纳入出售计划。",
+    "非红色藏品免 OCR 出售，红色藏品单次核对名称和金额。",
+    "修复清仓翻页定位及售后空格确认，减少图标匹配的重复计算。"
   ],
-  "display_version": "0.5.9",
-  "build": 1
+  "display_version": "0.6.0",
+  "build": 1,
+  "exe_url": "https://github.com/rurisizuku6657-lgtm/dafeiyuupdate/releases/download/v0.6.0/dafuyu-standby.exe",
+  "exe_sha256": "DC833C103430C31632B5F07A5CC1B83DCEC07D4ACC15B0165F2848414CD1CE21",
+  "exe_size": 420478508
 }
